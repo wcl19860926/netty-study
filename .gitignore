@@ -15,6 +15,4 @@
 .tern-project
 *_translate.properties
 logs/
-resources/temp.fxml
-dev.sql
-prod.sql
+
